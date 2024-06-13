@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iitian-abhinav
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning JAVA(DSA)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on all soughts of ML projects
 - 📫 How to reach me coderiitianabhinavk@gmail.com
 
 <!---
